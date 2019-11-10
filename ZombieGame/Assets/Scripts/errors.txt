@@ -1,0 +1,4 @@
+Zombie HurtTrigger cannot be attached
+
+AddScore.cs error, name ScoreToAdd does not exist in
+current context
