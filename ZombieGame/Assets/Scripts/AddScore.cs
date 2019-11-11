@@ -13,7 +13,7 @@ public class AddScore : MonoBehaviour
     {
         if (OnSendScore != null)
         {
-            OnSendScore(scoreToAdd);
+            OnSendScore(score);
         }
     }
 }
