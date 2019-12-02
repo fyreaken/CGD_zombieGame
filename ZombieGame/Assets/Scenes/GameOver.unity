@@ -535,7 +535,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Would you like to try again, or \ngo back to the main menu?"
+  m_Text: "Would you like to try again, \nor will you give up?"
 --- !u!222 &827115008
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -693,7 +693,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Go back?
+  m_Text: Give up?
 --- !u!222 &1389814658
 CanvasRenderer:
   m_ObjectHideFlags: 0
