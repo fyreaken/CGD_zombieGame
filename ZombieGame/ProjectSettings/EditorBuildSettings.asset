@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 27cb1bd7dcb511e42b66556b284d5a0d
   - enabled: 1
-    path: Assets/Scenes/Zombie Shooter Level 1.unity
+    path: Assets/Scenes/TestLevel.unity
     guid: 161229a9179020242af60cdabdb0fb86
   m_configObjects: {}

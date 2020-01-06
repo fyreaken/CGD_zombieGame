@@ -1,0 +1,17 @@
+design:
+ leaderboard scores?
+ create one map and create more when comfortable
+
+code:
+ fix laser weapon
+ code Save scores to file (?)
+ code show saved scores on main menu
+ (also save scores like an arcade style?)
+ code sounds (for everything)
+ code level difficulty (increasing with score count)
+ code effects, and showing effect on UI
+ code pickup items for effects
+ code health pickup, disappear after a few seconds
+ code current weapon equipped UI
+ code other modes of gameplay
+ code Zombie Projectiles???

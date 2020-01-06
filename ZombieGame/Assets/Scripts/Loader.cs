@@ -5,16 +5,28 @@ using UnityEngine.SceneManagement;
 
 public class Loader : MonoBehaviour
 {
+    public void TestLevel()
+    {
+        SceneManager.LoadScene("TestLevel");
+    }
     public void StartGame()
     {
-        SceneManager.LoadScene("Zombie Shooter Level 1");
+        SceneManager.LoadScene("Level1");
     }
-    public void EndGame()
+    public void GameOver()
     {
         SceneManager.LoadScene("GameOver");
+    }
+    public void GameWin()
+    {
+        SceneManager.LoadScene("GameWin");
     }
     public void BackToMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+    public void Controls()
+    {
+        SceneManager.LoadScene("Controls");
     }
 }
