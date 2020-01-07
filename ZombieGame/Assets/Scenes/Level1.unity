@@ -10160,7 +10160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bc73f241490923489cc81f9d66aaf5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4164728011097651272, guid: b53faf8519ecf8b44b1a78060b1e9289,
+  prefabToSpawn: {fileID: 8090831852907850365, guid: 7db549d94048d174c8c1987346577f96,
     type: 3}
   adjustmentAngle: 0
 --- !u!114 &1503016293
