@@ -1,9 +1,0 @@
-https://www.erikmoberg.net/article/unity3d-replace-sprite-programmatically-in-animation
-https://stackoverflow.com/questions/42249720/unity3d-c-sharp-button-sprite-swap-attach-images-at-runtime
-https://answers.unity.com/questions/1033739/how-to-change-between-two-images-on-button-click.html
-https://answers.unity.com/questions/1172061/how-to-change-image-of-button-when-clicked.html
-
-
-info to do with changing UI image:
-
-https://forum.unity.com/threads/change-a-ui-image-source-image-when-other-ui-button-is-clicked.343028/
