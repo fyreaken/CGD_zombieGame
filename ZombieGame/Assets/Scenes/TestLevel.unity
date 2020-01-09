@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bc73f241490923489cc81f9d66aaf5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5423743619707065415, guid: d9309008b52aae3459104beeccb6ecc7,
+  prefabToSpawn: {fileID: 4212010988141916382, guid: ad0c65dc798c6a242b3a3a42c877039c,
     type: 3}
   adjustmentAngle: 0
 --- !u!114 &4218401
@@ -1343,7 +1343,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 876453467}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4028e1cffa1f3f24cb6276eaef511ac7, type: 3}
+  m_Script: {fileID: 11500000, guid: cad824e81bac3a94f89db6d8989da142, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   healthBar: {fileID: 919363581}
@@ -2217,7 +2217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bc73f241490923489cc81f9d66aaf5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7223744982707864371, guid: 1b13645abf6ab3642b74ab7db8468490,
+  prefabToSpawn: {fileID: 6234395282625031063, guid: d9183d5e6ec775c41879358d7e11e97b,
     type: 3}
   adjustmentAngle: 0
 --- !u!114 &1489378962
@@ -2344,7 +2344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bc73f241490923489cc81f9d66aaf5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6613653037841235850, guid: 13062bb85fd20994d9d52c70fe98e397,
+  prefabToSpawn: {fileID: 5298844592032010358, guid: 66586e49596ba64458c050d4e92e38d3,
     type: 3}
   adjustmentAngle: 0
 --- !u!114 &1503016293

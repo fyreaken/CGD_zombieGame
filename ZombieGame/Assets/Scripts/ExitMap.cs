@@ -7,6 +7,6 @@ public class ExitMap : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(0);
     }
 }

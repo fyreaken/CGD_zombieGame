@@ -1,19 +1,21 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AddScore : MonoBehaviour
 {
     public delegate void SendScore(int theScore);
     public static event SendScore OnSendScore;
-
     public int score = 10;
+    private bool scoreSent = false;
 
-    private void OnDestroy()
+    public void OnAddScore()
     {
         if (OnSendScore != null)
         {
-            OnSendScore(score);
+            if (!scoreSent)
+            {
+                scoreSent = true;
+                OnSendScore(score);
+            }
+
         }
-    }
-}
+    }}

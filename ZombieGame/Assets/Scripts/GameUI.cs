@@ -1,15 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
-
 public class GameUI : MonoBehaviour
 {
     public Slider healthBar;
     public Text scoreText;
-
     public int playerScore = 0;
-
     private void OnEnable()
     {
         Player.OnUpdateHealth += UpdateHealthBar;
@@ -19,6 +14,7 @@ public class GameUI : MonoBehaviour
     {
         Player.OnUpdateHealth -= UpdateHealthBar;
         AddScore.OnSendScore -= UpdateScore;
+        PlayerPrefs.SetInt("Score", playerScore);
     }
     private void UpdateHealthBar(int health)
     {
