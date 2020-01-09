@@ -29,4 +29,8 @@ public class Loader : MonoBehaviour
     {
         SceneManager.LoadScene("Controls");
     }
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }
