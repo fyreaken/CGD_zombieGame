@@ -59,4 +59,10 @@ public class HighScoreUI : MonoBehaviour {
         string scoresJSON = JsonUtility.ToJson(highScore);
         PlayerPrefs.SetString("HighScores", scoresJSON);
     }
+
+    public void ResetScore()
+    {
+        PlayerPrefs.DeleteAll();
+        Start();
+    }
 }
